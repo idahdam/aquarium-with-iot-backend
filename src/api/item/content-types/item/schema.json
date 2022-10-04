@@ -1,0 +1,25 @@
+{
+  "kind": "collectionType",
+  "collectionName": "items",
+  "info": {
+    "singularName": "item",
+    "pluralName": "items",
+    "displayName": "item",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "timestamp": {
+      "type": "datetime"
+    },
+    "ph_number": {
+      "type": "float"
+    },
+    "temp_numbebr": {
+      "type": "float"
+    }
+  }
+}
