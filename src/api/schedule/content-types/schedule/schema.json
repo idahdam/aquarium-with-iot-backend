@@ -4,7 +4,8 @@
   "info": {
     "singularName": "schedule",
     "pluralName": "schedules",
-    "displayName": "schedule"
+    "displayName": "schedule",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
@@ -13,6 +14,9 @@
   "attributes": {
     "event_name": {
       "type": "string"
+    },
+    "time": {
+      "type": "time"
     }
   }
 }
