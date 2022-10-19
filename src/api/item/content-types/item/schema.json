@@ -15,10 +15,7 @@
     "timestamp": {
       "type": "datetime"
     },
-    "ph_number": {
-      "type": "float"
-    },
-    "temp_numbebr": {
+    "temp_number": {
       "type": "float"
     }
   }
